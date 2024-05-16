@@ -1,0 +1,20 @@
+.read,
+.unread {
+    background-color: rgb(242, 119, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.unread {
+    font-size: 24px;
+}
+
+#title {
+    color: rgb(20, 110, 237);
+    font-size: 36px;
+}
+
+#title2 {
+    background-color: rgb(170, 242, 73);
+    font-size: 24px;
+    font-weight: bold;
+}
